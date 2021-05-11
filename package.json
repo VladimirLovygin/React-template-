@@ -2,7 +2,7 @@
   "name": "React-template-",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://github.com/VladimirLovygin/React-template-",
+  "homepage": "https://vladimirlovygin.github.io/React-template-/",
   "description": "React Template for building an SaaS/admin application using React + Material-UI",
   "dependencies": {
     "@date-io/date-fns": "^1.3.13",
